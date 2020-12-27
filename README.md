@@ -1,16 +1,14 @@
-# Getting Started with Create React App
+
+
+### `Deployed Aop link on Netlify`
 
 This project is hosted on Neflify for free [airbnb Clone](https://chowaairbnbclone.netlify.app/).
+
+# Getting Started with Create React App
 
 ## Available Scripts
 
 In the project directory, you can run:
-
-### `Deployed Aop link on Netlify`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
 
 ### `yarn start`
 
